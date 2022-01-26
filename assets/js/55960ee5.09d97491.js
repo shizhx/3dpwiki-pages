@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_3_dpwiki=self.webpackChunk_3_dpwiki||[]).push([[121],{8070:function(s){s.exports=JSON.parse('[{"name":"hello","permalink":"/docs/tags/hello","count":6},{"name":"docusaurus","permalink":"/docs/tags/docusaurus","count":6},{"name":"intro","permalink":"/docs/tags/intro","count":3}]')}}]);

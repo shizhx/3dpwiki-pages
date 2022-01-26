@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_3_dpwiki=self.webpackChunk_3_dpwiki||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"TODO","permalink":"/en/blog/index"}]}')}}]);

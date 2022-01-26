@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>3DPWIKI Blog</title>
+        <link>https://www.3dpwiki.org/blog</link>
+        <description>3DPWIKI Blog</description>
+        <lastBuildDate>Wed, 26 Jan 2022 03:59:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TODO]]></title>
+            <link>https://www.3dpwiki.org/blog/index</link>
+            <guid>/index</guid>
+            <pubDate>Wed, 26 Jan 2022 03:59:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
